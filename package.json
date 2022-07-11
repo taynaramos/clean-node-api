@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/taynaramos/clean-node-api/issues"
   },
-  "homepage": "https://github.com/taynaramos/clean-node-api#readme"
+  "homepage": "https://github.com/taynaramos/clean-node-api#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "standard": "^17.0.0"
+  }
 }
